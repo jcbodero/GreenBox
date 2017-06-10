@@ -1,0 +1,4 @@
+CIUDAD CELESTE,Km.9 Via Samborondón,140,11111
+LA JOYA,Av. Leon Febres Cordero-Daule,230,11127
+METROPOLIS,Autopista Terminal Terrestre Pascuales-Guayaquil-Ecuador,167,11643
+VILLA DEL REY,Km. 14 Av. León Febres Cordero-cantón Daule,167,12967

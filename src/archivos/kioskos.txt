@@ -1,0 +1,5 @@
+11111,LX34S2,Fabricante1
+11127,LY57S3,Fabricante1
+11643,A312B3,Fabricante2
+12967,XX321X,Fabricante3
+
